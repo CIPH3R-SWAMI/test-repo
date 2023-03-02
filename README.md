@@ -1,2 +1,2 @@
 # test-repo
-My test repository
+My test repository, in which I test things.
